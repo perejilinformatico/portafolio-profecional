@@ -327,7 +327,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="border-t border-slate-700 mt-20 py-8 bg-slate-900/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-slate-400">
-          <p>© 2025 Santiago Cussit. Hecho con React, Daisy UI, Tailwind, TypeScript \(-w-)/</p>
+          <p>© 2026 Santiago Cussit. Hecho con React, Daisy UI, Tailwind, TypeScript \(-w-)/</p>
         </div>
       </footer>
     </div>
