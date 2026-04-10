@@ -160,7 +160,7 @@ export default function Portfolio() {
           <div  id="card" className="bg-slate-800/50 backdrop-blur-sm p-8 rounded-xl border border-slate-700 hover:border-cyan-500/50 transition">
             <h3 className="text-xl font-bold mb-3 text-cyan-400">Experiencia</h3>
             <p className="text-slate-300">
-              4 proyectos reales en vivo. Experiencia en frontend, backend y diseño UI/UX.
+              5 proyectos reales en vivo. Experiencia en frontend, backend y diseño UI/UX.
             </p>
           </div>
 
