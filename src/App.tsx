@@ -36,7 +36,15 @@ export default function Portfolio() {
       tech: ["React", "CSS"],
       link: "https://api-demon-slayer-pi.vercel.app/",
       color: "from-purple-500 to-indigo-500"
-    }
+    },
+        {
+      id: 5,
+      title: "DreamFlow Diseño",
+      description: "Diseño web simple y moderno.",
+      tech: ["HTML5", "CSS3", "Bootstrap"],
+      link: "https://dise-o-web-dream-flow.pages.dev/",
+      color: "from-purple-600 to-indigo-500"
+    },
   ];
 
   const skills = {
