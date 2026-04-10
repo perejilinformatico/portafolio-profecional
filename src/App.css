@@ -1,6 +1,6 @@
 html {
   scroll-behavior: smooth;
-  scrollbar-color: rgb(142, 142, 218), skyblue;
+  scrollbar-color: rgb(142, 142, 218) skyblue;
 }
 #contact-button {
   transition: all 0.3s ease-in-out;
